@@ -16,9 +16,9 @@ Para ejecutar este juego es necesario tener instalado el compilados de lenguaje 
 
 Se deberá montar el compilador en el directorio del proyecto y luego escribir el comando "compi" para ejecutar el juego.
 
-comandos:
-mount d c:/Users/pc/carpeta-del-proyecto
-d:
+comandos:  
+mount d c:/Users/pc/carpeta-del-proyecto  
+d:  
 compi
 
 ![Demostracion](demostración.gif)
